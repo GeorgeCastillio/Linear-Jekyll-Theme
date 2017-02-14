@@ -4,3 +4,6 @@ paginate: 10
 
 # Tracker 
 analytics: UA-90633187-1
+
+gems:
+  - jekyll-seo-tag
